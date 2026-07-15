@@ -82,5 +82,5 @@ I am a postgraduate **Master of Computer Applications (MCA)** student at **CMR I
 
 ## 🤝 Let's Connect!
 - 💼 **LinkedIn**: [linkedin.com/in/a-anusri-73b603271/](https://www.linkedin.com/in/a-anusri-73b603271/)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com) *(Replace with your professional email address)*
+- 📧 **Email**: [www.anuak2603@gmail.com](mailto:www.anuak2603@gmail.com) 
 - 📁 **GitHub Portfolio**: [github.com/AnuAK03](https://github.com/AnuAK03)

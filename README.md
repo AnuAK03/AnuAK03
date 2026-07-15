@@ -2,10 +2,10 @@
 <div align="center">
   <h1>Hi, I'm A. Anusri 👋</h1>
   <p><strong>MCA Candidate | Aspiring Software Development Engineer & ML Specialist</strong></p>
-  <p align="right">
+  <p align="midright">
   <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&width=435&lines=Python+Developer;ML+Enthusiast;Data+Science+Learner;MCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Python+Developer;ML+Enthusiast;Data+Science+Learner;Open+Source+Contributor;MCA+Student" alt="Typing SVG" />
   </a>
   </p>
 </div>

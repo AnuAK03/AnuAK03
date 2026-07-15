@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi, I'm A. Anusri 👋</h1>
   <p><strong>MCA Candidate | Aspiring Software Development Engineer & ML Specialist</strong></p>
-  <p align="center">
+  <p align="right">
   <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&width=435&lines=Python+Developer;ML+Enthusiast;Data+Science+Learner;MCA+Student" alt="Typing SVG" />
@@ -82,5 +82,5 @@ I am a postgraduate **Master of Computer Applications (MCA)** student at **CMR I
 
 ## 🤝 Let's Connect!
 - 💼 **LinkedIn**: [linkedin.com/in/a-anusri-73b603271/](https://www.linkedin.com/in/a-anusri-73b603271/)
-- 📧 **Email**: [www.anuak2603@gmail.com](mailto:www.anuak2603@gmail.com) 
+- 📧 **Email**: [anuak2603@gmail.com](mailto:anuak2603@gmail.com) 
 - 📁 **GitHub Portfolio**: [github.com/AnuAK03](https://github.com/AnuAK03)
